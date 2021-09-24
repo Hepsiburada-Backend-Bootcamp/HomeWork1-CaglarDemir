@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PharmacyAPI</name>
+    </assembly>
+    <members>
+        <member name="T:PharmacyAPI.Controllers.MedicineController">
+            <summary>
+            bu ne
+            </summary>
+        </member>
+        <member name="M:PharmacyAPI.Controllers.MedicineController.Merhaba">
+            <summary>
+            merhaba
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:PharmacyAPI.Controllers.MedicineController.Get(System.Int32)">
+            <summary>
+            Id'si verilen ilacı getirir.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PharmacyAPI.Controllers.MedicineController.Post(PharmacyAPI.Medicine)">
+            <summary>
+            Ilac eklemek icin.
+            </summary>
+            <param name="medicine"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
